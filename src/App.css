@@ -1,0 +1,9 @@
+.App-container {
+  background-color: #0f174a;
+  width: 100%;
+  /* #5569dc; */
+}
+
+html {
+  scroll-behavior: smooth;
+}
